@@ -1,0 +1,1 @@
+CREATE TABLE names (id integer PRIMARY KEY, name varchar(32));
